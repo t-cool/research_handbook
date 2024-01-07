@@ -2,7 +2,7 @@
 
 [外国語教育研究ハンドブック](https://www.amazon.co.jp/dp/4775402943?psc=1&smid=AN1VRQENFRJN5&ref_=chk_typ_imgToDp)の追試
 
-## 追試の記録
+## 目次
 
 データと分析方法
 
@@ -37,4 +37,11 @@
 第16章 メタ分析
 
 Rを使った一般化可能性理論
+
+## 追試
+
+各章の学習記録を Google Colaboratory 上で行います。
+
+[Google Colaboratory](https://drive.google.com/drive/folders/1xvT6vUOsSk-vXppl_oVQSwA-JV1oj_6R?usp=drive_link)
+
 
